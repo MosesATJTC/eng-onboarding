@@ -1,12 +1,17 @@
 ## Description
-_A few sentences describing the overall goals of the pull request's commits. In case you are creating or updating new endpoints, please document request and response schema schema._
+_Printing fibonacci_sequence upto n terms_
 
 ## Database schema changes
-_Please document any change in database schema relevant to this PR._
+_None_
 
 ## Tests
 ### Automated test cases added
-- _Description of automated test 1_
+- _None_
 
 ### Manual test cases run
-- _Description of manual test 1_
+- _Enter the number : 5_
+- 0
+- 1
+- 1
+- 2
+- 3
