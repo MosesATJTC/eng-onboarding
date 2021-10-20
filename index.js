@@ -16,7 +16,7 @@ const fib = (n) => {
 };
 try {
   const num = parseInt(prompt("enter the number :"));
-  if (num == NaN) console.log("enter valid number");
+  if (num === NaN) console.log("enter valid number");
   fib(num);
 } catch (error) {
   console.log(error);
